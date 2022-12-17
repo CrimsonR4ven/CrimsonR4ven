@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🖥️ Workspace Setup
-![5-3500X](https://img.shields.io/badge/Ryzen-5_3500X-red?style=for-the-badge&logo=AMD&logoColor=white)
+![5-3500X](https://img.shields.io/badge/AMD-Ryzen_5_3500X-red?style=for-the-badge&logo=amd&logoColor=white)
 ![rtx-3060ti](https://img.shields.io/badge/NVIDIA-RTX-3060ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
